@@ -1,7 +1,5 @@
 # House-Price-Prediction-System
 
-# README.md content
-"""
 # House Price Prediction System
 
 This project predicts real estate prices based on features like location, square footage, age, and amenities. It is a full end-to-end production-ready ML system.
