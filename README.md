@@ -1,8 +1,5 @@
 # House-Price-Prediction-System
 
-# 1️⃣ House Price Prediction System
-########################################################
-
 # README.md content
 """
 # House Price Prediction System
